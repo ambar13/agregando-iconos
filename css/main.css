@@ -11,3 +11,7 @@ p{
     color: silver;
     margin-right: 15px;
 }
+.emoji {
+        width: 400px; height: 287px;
+        background: url('../assets/images/css_sprites.png') -10px -10px;
+    }
