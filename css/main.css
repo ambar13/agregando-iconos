@@ -1,0 +1,13 @@
+h1 {
+    color: green;
+    font-family: 'Roboto', serif;
+    font-size: 30px;
+}
+p{
+    font-family: 'Roboto', sans-serif;
+    /* font-family: 'Lora', serif; */
+}
+.icon {
+    color: silver;
+    margin-right: 15px;
+}
